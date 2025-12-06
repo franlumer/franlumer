@@ -5,7 +5,6 @@ I currently work at the Instituto de Innovación y Tecnologías Aplicadas (IITA)
 
 I like mixing development, networking, Linux, and cybersecurity to build practical solutions — from small scripts that make life easier to more complete tools for analysis and automation.
 
----
 
 ## What I'm Intreted to
 - Cybersecurity and pentesting  
@@ -14,7 +13,6 @@ I like mixing development, networking, Linux, and cybersecurity to build practic
 - AI  
 - Hardwareand Software support
 
----
 
 ## Tech I work with  
 **Languages:** Python, Bash  
@@ -23,7 +21,6 @@ I like mixing development, networking, Linux, and cybersecurity to build practic
 **Development:** Git, VSCode, containers, virtualization  
 **Security:** Caido, web analysis, custom scripts, Sec. Audits
 
----
 
 ## What I'm usually doing  
 - Writing scripts and tools to simplify tasks    
@@ -31,7 +28,6 @@ I like mixing development, networking, Linux, and cybersecurity to build practic
 - Building local environments for training and experimentation  
 - Breaking, fixing, repeating
 
----
 
 ## Contact me
 📧 Email: franlumer09@gmail.com  

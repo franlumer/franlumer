@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Luciano Merlo
 
-I'm a Cybersecurity student, developer, and systems administrator from Argentina.  
+I'm a Cybersecurity student, developer, and scripter from Argentina.  
 I currently work at the Instituto de Innovación y Tecnologías Aplicadas (IITA) as a teaching assistant, programming instructor, and developer.
 
 I like mixing development, networking, Linux, and cybersecurity to build practical solutions — from small scripts that make life easier to more complete tools for analysis and automation.

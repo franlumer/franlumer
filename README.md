@@ -18,7 +18,7 @@ I like mixing development, networking, Linux, and cybersecurity to build practic
 **Languages:** Python, Bash  
 **Systems:** Linux, Windows, WSL  
 **Networking:** MikroTik RouterOS  
-**Development:** Git, VSCode, containers, virtualization  
+**Development:** Git, VSCode, virtualization  
 **Security:** Caido, web analysis, custom scripts, Sec. Audits
 
 
